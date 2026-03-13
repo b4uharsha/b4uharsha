@@ -1,7 +1,8 @@
 # Hi, I'm Harsha Reddy
 
-## About Me
-Cloud & Data Engineer specializing in graph analytics, DevOps, and distributed systems.
+**Infrastructure | DevOps | AI & Graph Analytics**
+
+17+ years of experience in cloud infrastructure, DevOps automation, AI implementation, and graph analytics.
 
 ## Projects
 
